@@ -91,4 +91,4 @@ if(numberRefactor1 - numberRefactor2 >= -999999999999999999999){ // i set the va
 // }else{
 //   console.log(numberRefactor1 - numberRefactor2)
 // }
-// this is one of the other many things i tried.
+// this is one of the other many things i tried

@@ -63,4 +63,4 @@ Research and define the following terms to the best of your ability.
 
 4. Objects:a object is a standalone enity with properties and type.
 
-5. Classes: a template for creating objects.
+5. Classes: a template for creating objects
