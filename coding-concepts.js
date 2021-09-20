@@ -49,4 +49,4 @@ var dataTypes = ["number", "string", "Boolean"]
 console.log(typeof dataTypes.length)
 
 // a) Your answer: i think it will log numbers because the typeof prefix is asking what is the type of data type will come from a .length attribute.
-// b) Verify and explain:Number. i think i was correct in the fact that it was asking for the type of data type will come from a .length command.
+// b) Verify and explain:Number. i think i was correct in the fact that it was asking for the type of data type will come from a .length command
